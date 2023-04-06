@@ -22,7 +22,7 @@
 - 사용 Tool : <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/> `(4.25.0)`, <img src="https://img.shields.io/badge/openjdk-FFFFFF?style=flat&logo=openjdk&logoColor=black"/> `(17.0.4.1)`, <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> `(1.74.1)`, <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> `(8.0.31)`
 - 사용 DB : <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> `(8.0.31)`, <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 - 참조 API : <img src="https://img.shields.io/badge/lastdotfm-D51007?style=flat&logo=lastdotfm&logoColor=white"/> <img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/>
-- 기술 스택: <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>, <img src="https://img.shields.io/badge/Mybatis-FF0000?style=flat&url=<https://github.com/ALOHA-CLASS/java_python_ai_01/blob/main/project/portfolio/mybatis.png>&color=white"/>
+- 기술 스택: <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white"/>, <img src="https://img.shields.io/badge/Mybatis-FF0000?style=flat&url=<https://ibb.co/9nfcH2q>&color=white"/>
 MyBatis, Spring boot, Oauth2.0, Spring Security
 - DB: MySQL, MongoDB
 - 웹 IDE: Github
