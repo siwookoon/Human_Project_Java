@@ -17,7 +17,7 @@
 ​
 ## 개발 환경
 - 기간 : <img src="https://img.shields.io/badge/2023.03.27 ~ 2023.04.-686767?style=flat&logo=2023.03.27 ~ 2023.04.&logoColor=white">
-- 인원 : <img src="https://img.shields.io/badge/4명-686767?style=flat&logo=4명&logoColor=white">
+- 인원 : <img src="https://img.shields.io/badge/4명-686767?style=flat&logo=4people&logoColor=white">
 - 사용 언어
   + <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SQL-F80000?style=flat&logo=SQL&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white">
 - 프레임워크
