@@ -18,15 +18,15 @@
 ## 개발 환경
 - 기간 : `2023.03.27 ~ 2023.04.`
 - 통합 환경: Eclipse, VsCode
-- 사용 언어 : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SQL-F80000?style=flat&logo=SQL&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white">
+- 사용 언어 : <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/SQL-F80000?style=flat&logo=SQL&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white">
 - 사용 Tool : <img src="https://img.shields.io/badge/eclipseide-2C2255?style=flat&logo=eclipseide&logoColor=white"/> `(4.25.0)`, <img src="https://img.shields.io/badge/openjdk-FFFFFF?style=flat&logo=openjdk&logoColor=black"/> `(17.0.4.1)`, <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> `(1.74.1)`, <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> `(8.0.31)`
 - 사용 DB : <img src="https://img.shields.io/badge/mysql-4479A1?style=flat&logo=mysql&logoColor=white"/> `(8.0.31)`, <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=white"/>
 - 참조 API : <img src="https://img.shields.io/badge/lastdotfm-D51007?style=flat&logo=lastdotfm&logoColor=white"/> <img src="https://img.shields.io/badge/youtube-FF0000?style=flat&logo=youtube&logoColor=white"/> <img src="https://img.shields.io/badge/kakao-FFCD00?style=flat&logo=kakao&logoColor=white"/>
-- 기술 스택: MyBatis, Spring boot, Oauth2.0, Spring Security
+- 기술 스택: <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
+MyBatis, Spring boot, Oauth2.0, Spring Security
 - DB: MySQL, MongoDB
 - 웹 IDE: Github
 - 협업 tool: Slack, Trello
-​
 ​
 ## 주요 기능
 - 게시판
@@ -64,5 +64,5 @@
 ​
 2023-03-28, Lastfm API 연결, 차트 페이지 
 ​
-2023-04-03, 배포
+2023-04-03, 배포 
 ***
