@@ -45,6 +45,13 @@
         em {
             color: rgb(252, 15, 220);
         }
+        .back-head {
+            background-image: url(/img/yaho1.png);
+            background-size: 100%;
+            background-repeat: no-repeat;
+            background-position: center;
+            height: 120px;
+        }
         .back-foot {
             background-image: url(/img/yaho2.png);
             background-size: 100%;
@@ -155,7 +162,7 @@
                         	<th width="60">구분</th>
                         	<th width="300">제목</th>
                         	<th width="150">작성자</th>
-                        	<th width="100">조회수</th>
+                        	<th width="50">조회수</th>
                         	<th width="150">등록일자</th>
 						</thead>
                     </tr>
@@ -170,11 +177,11 @@
                             <th:block sec:authorize="hasAnyRole('ROLE_ADMIN')">
                                 <td align="center"><input type="checkbox" name="boardNo" th:value=${board.boardNo} class="input-check"></td>
                             </th:block>
-                            <td width="50" align="center" th:text=${board.boardNo}></td>
-                            <td width="70" align="center">
+                            <td align="center" th:text=${board.boardNo}></td>
+                            <td align="center">
                             	<a th:href="|/board/list?tag=${board.tag}|" th:text=${board.tag}></a>
                             </td>
-                            <td width="300" align="left">
+                            <td>
                                 <a th:href="|/board/read?boardNo=${board.boardNo}|" th:text=${board.title}></a>
                             </td>
                             <th:block th:if="${board.nickname == null}">
@@ -183,8 +190,8 @@
                             <th:block th:if="${board.nickname != null}">
                                 <td align="center" th:text=${board.nickname}></td>    
                             </th:block>
-                            <td width="60" align="center" th:text=${board.joinCnt}></td>
-                            <td width="180" align="center">
+                            <td align="center" th:text=${board.joinCnt}></td>
+                            <td align="center">
                                 <span th:text="${ #temporals.format(board.regDate, 'yyyy-MM-dd') }"></span>
                             </td>
                         </tr>
@@ -310,7 +317,6 @@
             let chkarr = [];
             var token = $("meta[name='_csrf']").attr("content");
             var header = $("meta[name='_csrf_header']").attr("content");
-
             let result = confirm('게시글을 삭제하시겠습니까?')
             if (result) {
                 $('.input-check:checked').each(function(){
